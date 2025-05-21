@@ -1,0 +1,26 @@
+{
+    "recommendations": [
+        "cschlosser.doxdocgen",
+        "davidanson.vscode-markdownlint",
+        "esbenp.prettier-vscode",
+        "jbenden.c-cpp-flylint",
+        "lextudio.restructuredtext",
+        "mhutchie.git-graph",
+        "ms-ceintl.vscode-language-pack-ja",
+        "ms-python.autopep8",
+        "ms-python.black-formatter",
+        "ms-python.flake8",
+        "ms-python.pylint",
+        "ms-python.python",
+        "ms-python.vscode-pylance",
+        "ms-toolsai.jupyter",
+        "ms-vscode.cpptools-extension-pack",
+        "njpwerner.autodocstring",
+        "ritwickdey.liveserver",
+        "shd101wyy.markdown-preview-enhanced",
+        "trond-snekvik.simple-rst",
+        "visualstudioexptteam.vscodeintellicode-completions",
+        "visualstudioexptteam.vscodeintellicode",
+        "yzhang.markdown-all-in-one",
+    ]
+}
