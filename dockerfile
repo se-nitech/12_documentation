@@ -9,4 +9,7 @@ RUN apt -y install diffutils patch make doxygen
 RUN apt -y install pandoc gcc \
     && pip install rstcheck ipykernel esbonio
 
+# Java
+RUN apt -y install openjdk-17-jre openjdk-17-jdk
+
 WORKDIR /mnt
